@@ -7,12 +7,11 @@ This is just a start up code just to set the ball rolling in my portfolio
 
 Here's a link to the demo of my code
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Cfix4Yj6uYU)
 
 # Development Environment
 
 I didn't use any extra tools in this project and just plain old python
 
 # Useful Websites
-
--
+ --
