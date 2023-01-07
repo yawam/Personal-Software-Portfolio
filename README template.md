@@ -1,23 +1,18 @@
 # Overview
+This is my personal software portfolio in progress. This is especially for new projects and learning things I haven't learned before. This one goal I have a software engineer so I can have adequate experience in various fields
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is a hello world project in python
 
-{Provide a description of your software}
+This is just a start up code just to set the ball rolling in my portfolio
 
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+Here's a link to the demo of my code
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
+I didn't use any extra tools in this project and just plain old python
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+-
