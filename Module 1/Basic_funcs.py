@@ -1,7 +1,7 @@
 import pyrebase  # Importing pyrebase which is a PIP module used to connect to a realtime database created in firebase
 import json # Importing json module to allow imports from json
-from dotenv import load_dotenv
-import os
+from dotenv import load_dotenv #importing dotenv to hide my API key
+import os #importing OS to help me get into the .env file
 
 load_dotenv(".env")
 
@@ -32,11 +32,13 @@ database = firebase.database()
 #3 particular function page
 #4 End of Program
 
+# add to the database
 def add(id,name, age, Major):
 
     data = {"Student-id": id, "Name":name, "Age":age, "Major":Major}
     database.child("Students").child(id).set(data)
 
+# adding from file
 def load_from_file(file_name):
     with open(file_name) as file:
         data = json.load(file)
@@ -51,13 +53,13 @@ def load_from_file(file_name):
             add(id,name,age,major)
 
 
-
+#viewing data
 def read(id):
 
     student = database.child("Students").child(id).get()
     print(student.val())
 
-
+#update functions
 def update_name(id, name):
 
     database.child("Students").child(id).update({"Name":name})
@@ -70,5 +72,6 @@ def update_major(id, major):
 
     database.child("Students").child(id).update({"Major":major})
 
+#delete functions
 def delete_record(id):
     database.child("Students").child(id).remove()
