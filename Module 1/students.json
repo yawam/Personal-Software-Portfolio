@@ -1,0 +1,14 @@
+[
+    {"id":1 , "Name":"John", "Age":21, "Major": "Software Engineering"},
+    {"id":2 , "Name":"Peter", "Age":23, "Major": "Mechanical Engineering"},
+    {"id":3 , "Name":"Mac", "Age":24, "Major": "Biology"},
+    {"id":4 , "Name":"Jenny", "Age":25, "Major": "Mathematics"},
+    {"id":5 , "Name":"Judy", "Age":18, "Major": "Business Management"},
+    {"id":6 , "Name":"AJ", "Age":20, "Major": "Business Analytics"},
+    {"id":7 , "Name":"PY", "Age":21, "Major": "Music"},
+    {"id":8 , "Name":"Kofi", "Age":24, "Major": "Psychology"},
+    {"id":9 , "Name":"Freda", "Age":26, "Major": "Dance"},
+    {"id":10 , "Name":"Harriet", "Age":19, "Major": "Marketing"},
+    {"id":11 , "Name":"Chong", "Age":22, "Major": "Computer Science"}
+
+]
