@@ -9,25 +9,18 @@ I also discovered I can do it in othee languages. It's amazing.
 
 Here's a link to a little demo video
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Calculator Demo Video](https://youtu.be/ss-R36o6L8s)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+C# in Visual Studio using windows forms module
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Visual Studio](https://visualstudio.microsoft.com/)
+- [Youtube](https://www.youtube.com/@DJOamen)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Better and more responsive interface
+- bug fixes
