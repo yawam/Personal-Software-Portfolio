@@ -1,0 +1,11 @@
+C:\Users\gaming\OneDrive\Desktop\StudyAndSchool\Winter2023\CSE310\Personal-Software-Portfolio\CS_calculator\Calculator_cs\Calculator_cs\bin\Debug\Calculator_cs.exe.config
+C:\Users\gaming\OneDrive\Desktop\StudyAndSchool\Winter2023\CSE310\Personal-Software-Portfolio\CS_calculator\Calculator_cs\Calculator_cs\bin\Debug\Calculator_cs.exe
+C:\Users\gaming\OneDrive\Desktop\StudyAndSchool\Winter2023\CSE310\Personal-Software-Portfolio\CS_calculator\Calculator_cs\Calculator_cs\bin\Debug\Calculator_cs.pdb
+C:\Users\gaming\OneDrive\Desktop\StudyAndSchool\Winter2023\CSE310\Personal-Software-Portfolio\CS_calculator\Calculator_cs\Calculator_cs\obj\Debug\Calculator_cs.csproj.AssemblyReference.cache
+C:\Users\gaming\OneDrive\Desktop\StudyAndSchool\Winter2023\CSE310\Personal-Software-Portfolio\CS_calculator\Calculator_cs\Calculator_cs\obj\Debug\Calculator_cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\gaming\OneDrive\Desktop\StudyAndSchool\Winter2023\CSE310\Personal-Software-Portfolio\CS_calculator\Calculator_cs\Calculator_cs\obj\Debug\Calculator_cs.Form1.resources
+C:\Users\gaming\OneDrive\Desktop\StudyAndSchool\Winter2023\CSE310\Personal-Software-Portfolio\CS_calculator\Calculator_cs\Calculator_cs\obj\Debug\Calculator_cs.Properties.Resources.resources
+C:\Users\gaming\OneDrive\Desktop\StudyAndSchool\Winter2023\CSE310\Personal-Software-Portfolio\CS_calculator\Calculator_cs\Calculator_cs\obj\Debug\Calculator_cs.csproj.GenerateResource.cache
+C:\Users\gaming\OneDrive\Desktop\StudyAndSchool\Winter2023\CSE310\Personal-Software-Portfolio\CS_calculator\Calculator_cs\Calculator_cs\obj\Debug\Calculator_cs.csproj.CoreCompileInputs.cache
+C:\Users\gaming\OneDrive\Desktop\StudyAndSchool\Winter2023\CSE310\Personal-Software-Portfolio\CS_calculator\Calculator_cs\Calculator_cs\obj\Debug\Calculator_cs.exe
+C:\Users\gaming\OneDrive\Desktop\StudyAndSchool\Winter2023\CSE310\Personal-Software-Portfolio\CS_calculator\Calculator_cs\Calculator_cs\obj\Debug\Calculator_cs.pdb
