@@ -28,7 +28,14 @@ const notes = [
     title: "To Do",
     content:
       "Interviews, Finish react Project,Miscellaneous, Plan CLasses, Etc."
+  },
+  {
+    key: 5,
+    title: "To Do",
+    content:
+      "Interviews, Finish react Project,Miscellaneous, Plan CLasses, Etc."
   }
+  
 
 ];
 
