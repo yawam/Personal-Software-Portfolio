@@ -5,7 +5,7 @@ The app is basically a clock In App where employees can enter their names and hi
 There will then be a display to show who clocked in and at what time, calculate the total hours and pay
 
 This Software can be used by any company to track employee hours and pay and punctuality
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/QP4YSLEh8z8)
 
 # Web Pages
 
